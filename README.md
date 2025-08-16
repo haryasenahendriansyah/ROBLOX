@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/haryasenahendriansyah/ROBLOX?style=social)](https://github.com/haryasenahendriansyah/ROBLOX/stargazers)
 [![Discord](https://img.shields.io/discord/1272572605455249540?label=Discord&logo=discord&color=7289da)](https://discord.gg/AtbU3EWjwy)
 
- Sena Community adalah script Roblox berbasis **Rayfield UI** yang dibuat oleh **Haryasena Hendriansyah**.  
+ Sena X ActualHub adalah script Roblox berbasis **Rayfield UI** yang dibuat oleh **Haryasena Hendriansyah**.  
 Script ini mendukung beberapa game mount dan dilengkapi fitur **Start/Stop Loader**, sehingga lebih ringan dan bisa dimatikan kapan saja.
 
 ---
