@@ -1,4 +1,4 @@
-# 🌐 Sena X Actualhub
+# 🌐  Sena Community
 
 [![Made with Lua](https://img.shields.io/badge/Made%20with-Lua-blue.svg)](https://www.lua.org)
 [![UI Library](https://img.shields.io/badge/UI-Rayfield%20UI-orange)](https://github.com/jensonhirst/Rayfield)
@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/haryasenahendriansyah/ROBLOX?style=social)](https://github.com/haryasenahendriansyah/ROBLOX/stargazers)
 [![Discord](https://img.shields.io/discord/1272572605455249540?label=Discord&logo=discord&color=7289da)](https://discord.gg/AtbU3EWjwy)
 
-**Sena X Actualhub** adalah script Roblox berbasis **Rayfield UI** yang dibuat oleh **Haryasena Hendriansyah**.  
+** Sena Community** adalah script Roblox berbasis **Rayfield UI** yang dibuat oleh **Haryasena Hendriansyah**.  
 Script ini mendukung beberapa game mount dan dilengkapi fitur **Start/Stop Loader**, sehingga lebih ringan dan bisa dimatikan kapan saja.
 
 ---
@@ -33,4 +33,4 @@ Script ini mendukung beberapa game mount dan dilengkapi fitur **Start/Stop Loade
 ## 🚀 Cara Menggunakan
 1. Salin script berikut ke executor Roblox kamu:
    ```lua
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/haryasenahendriansyah/ROBLOX/refs/heads/main/ActualHubLoader.lua"))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/haryasenahendriansyah/ROBLOX/refs/heads/main/SenaXActualHub"))()
