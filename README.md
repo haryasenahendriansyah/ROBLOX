@@ -33,4 +33,4 @@ Script ini mendukung beberapa game mount dan dilengkapi fitur **Start/Stop Loade
 ## 🚀 Cara Menggunakan
 1. Salin script berikut ke executor Roblox kamu:
    ```lua
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/haryasenahendriansyah/ROBLOX/refs/heads/main/SenaXActualHub"))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/haryasenahendriansyah/ScriptV1/refs/heads/main/SenaXActualHub"))()
