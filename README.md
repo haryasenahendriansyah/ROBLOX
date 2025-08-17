@@ -1,2 +1,2 @@
 ## 🚨 JUMPSCARE TIME
-![Jumpscare](https://media.giphy.com/media/3o6ZsX3A1kJkP4RjGk/giphy.gif)
+![Jumpscare](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGqMla0A8ZuTMqQ7D_Qh6Kf6YYQFGPmM3J-X2ohuHFjmUIGqDqrf0IPZrJ&s=10)
