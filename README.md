@@ -1,4 +1,4 @@
-# 🌐  Sena Community
+# 🌐  Sena X ActualHub V1
 
 [![Made with Lua](https://img.shields.io/badge/Made%20with-Lua-blue.svg)](https://www.lua.org)
 [![UI Library](https://img.shields.io/badge/UI-Rayfield%20UI-orange)](https://github.com/jensonhirst/Rayfield)
